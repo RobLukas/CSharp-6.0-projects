@@ -1,0 +1,9 @@
+D:\Projects\CSharp-6.0-projects\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.deps.json
+D:\Projects\CSharp-6.0-projects\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.runtimeconfig.json
+D:\Projects\CSharp-6.0-projects\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.runtimeconfig.dev.json
+D:\Projects\CSharp-6.0-projects\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.dll
+D:\Projects\CSharp-6.0-projects\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.pdb
+D:\Projects\CSharp-6.0-projects\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.csprojResolveAssemblyReference.cache
+D:\Projects\CSharp-6.0-projects\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.AssemblyInfo.cs
+D:\Projects\CSharp-6.0-projects\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.dll
+D:\Projects\CSharp-6.0-projects\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.pdb

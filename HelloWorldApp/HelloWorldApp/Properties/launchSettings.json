@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "HelloWorldApp": {
+      "commandName": "Project"
+    },
+    "ArgumentsSample": {
+      "commandName": "Project",
+      "commandLineArgs": "/a /b /c"
+    }
+  }
+}
